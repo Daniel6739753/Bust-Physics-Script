@@ -1,4 +1,4 @@
---Bust Physics v2.4.8
+--Bust Physics v2.5.0
 --Written: Daniel6739753
 --Use loadstring to use this script like "loadstring(game:HttpGet("https://raw.githubusercontent.com/Daniel6739753/Bust-Physics-Script/main/BustScriptV2.4.8.lua", true))()" without ""
 
